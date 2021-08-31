@@ -1,0 +1,95 @@
+.nav-link {
+  color: #fff;
+}
+
+body {
+  font-family: "Fira Sans Extra Condensed", sans-serif;
+  font-family: "Train One", cursive;
+  margin: 0em;
+  text-align: center;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+}
+
+p {
+  font-family: "Fira Sans Extra Condensed", sans-serif;
+}
+
+.cover {
+  height: 400px;
+  background-image: url(https://cdn.glitch.com/1349c62a-d878-4453-93fc-d27332c2dbea%2Frsz_120170805_180911.jpg?v=1630190678879);
+  background-size: cover;
+  background-position: center;
+  background-color: rgba(0, 0, 0, 0.5);
+  background-blend-mode: darken;
+  color: white;
+}
+.card {
+  border: 0;
+  box-shadow: 0px 4px 6px -1px rgba(0, 0, 0, 0.2),
+    0 2px 10px -1px rgba(0, 0, 0, 0.6);
+}
+.card-body {
+  font-family: "Fira Sans Extra Condensed";
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #212529;
+  border-color: #212529;
+}
+
+/* Style inputs with type="text", select elements and textareas */
+input {
+  width: 100%; /* Full width */
+  padding: 12px; /* Some padding */
+  border: 1px solid #ccc; /* Gray border */
+  border-radius: 4px; /* Rounded borders */
+  box-sizing: border-box; /* Make sure that padding and width stays in place */
+  margin-top: 6px; /* Add a top margin */
+  margin-bottom: 16px; /* Bottom margin */
+  resize: vertical; /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+/* Style the submit button with a specific background color etc */
+input[type="submit"] {
+  background-color: #212529;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+button[type="submit"]:hover {
+  background-color: #FCA311;
+}
+
+input[type="text"],
+select,
+textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical
+    /* Allow the user to vertically resize the textarea (not horizontally) */;
+}
+
+button {
+  background-color: #212529;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
