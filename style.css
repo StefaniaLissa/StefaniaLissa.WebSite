@@ -22,7 +22,7 @@ p {
 
 .cover {
   height: 400px;
-  background-image: url(https://cdn.glitch.com/1349c62a-d878-4453-93fc-d27332c2dbea%2Frsz_120170805_180911.jpg?v=1630190678879);
+  background-image: url(cover.jpg);
   background-size: cover;
   background-position: center;
   background-color: rgba(0, 0, 0, 0.5);
