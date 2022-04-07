@@ -22,12 +22,12 @@ p {
 
 .cover {
   height: 400px;
-  background-image: cover.jpg;
+  background-image: url("cover.jpg");
   background-size: cover;
   background-position: center;
-  background-color: rgba(0, 0, 0, 0.5);
-  background-blend-mode: darken;
+  background-color: #fff;
   color: white;
+  
 }
 .card {
   border: 0;
