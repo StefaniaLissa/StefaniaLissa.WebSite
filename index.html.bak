@@ -60,8 +60,8 @@
         </div>
       </nav>
       <div class="cover d-flex justify-content-center align-items-center">
-	  <img src="cover.jpg" height="400px"/>
-       <!-- <h1 style="font-family:'Fira Sans Extra Condensed'">
+	  <!--<img src="cover.jpg" height="400px"/>
+        <h1 style="font-family:'Fira Sans Extra Condensed'">
           HI
         </h1> -->
       </div>
@@ -166,7 +166,7 @@
                     >See Instagram</a
                   >
                   <a
-                    href="https://www.aberturashoy.com.ar"
+                    href="https://www.aberturashoy.com"
                     class="btn btn-primary"
                     >See Website</a
                   >
